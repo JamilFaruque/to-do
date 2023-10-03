@@ -1,0 +1,16 @@
+{
+    "name": "jamil/www",
+    "authors": [
+        {
+            "name": "Jamil",
+            "email": "104028403+JamilFaruque@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "Core\\" : "Core/"
+        }
+    }
+}
